@@ -70,8 +70,8 @@ function NewColombiaTV ()
 	--
 	-- ColombiaTV private parameters
 	--
-	local self = {  __listURLprefix__ = "http://dl.dropboxusercontent.com",
-									__listURLsuffix__ = "/u/30021391/XBMC/",
+	local self = {  __listURLprefix__ = "https://gist.githubusercontent.com",
+									__listURLsuffix__ = "/diegofn/b00362278b1ca171b27eb40bd7c2d5e4/raw/fe4702a051b468f332f02aabb0fdfafc8d037295/",
 									__listURLfile__		= "channels.json"
 	}
     
